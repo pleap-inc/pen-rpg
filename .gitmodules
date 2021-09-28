@@ -1,0 +1,3 @@
+[submodule "pen-rqg-api"]
+	path = pen-rqg-api
+	url = git@github.com:pleap-inc/pen-rqg-api.git
